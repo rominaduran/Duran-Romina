@@ -1,0 +1,101 @@
+git add continuidad.jpg
+pwd\n
+git add continuidad.jpg
+git status
+git add continuidad
+rm -rf .git\ngit init\n
+git add mafalda
+rm -rf .git\ngit init\n
+git add mafalda.png
+git add mafalda
+echo "# repositorioUCES" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/rominaduran/repositorioUCES.git\ngit push -u origin main
+git config --global user.name "rominaduran"\ngit config --global user.email romina_duran@icloud.com\nhttps://github.com/rominaduran/repositorioUCES.git\n
+cd repositorioUCES\ngit clone https://github.com/rominaduran/repositorioUCES.git\n
+git add mafalda
+cd repositorioUCES\ngit clone https://github.com/rominaduran/repositorioUCES.git\n
+git add mafalda
+git add mafalda
+cd /Users/rominaduran/repositorioUCES
+cd /Users/rominaduran/repositorioUCES\ngit clone https://github.com/rominaduran/repositorioUCES.git\n
+git add mafalda.png
+git add mafalda.png
+git commit -m "Añadido archivo mafalda.png"
+git status
+git push
+git push
+git config --global user.name "rominaduran"\ngit config --global user.email romina_duran@icloud.com\nhttps://github.com/rominaduran/La-teoria-de-los-signos-de-Peirce.git\n
+cd /Users/rominaduran/La-teoria-de-los-signos-de-Peirce \ngit clone https://github.com/rominaduran/La-teoria-de-los-signos-de-Peirce.git\n
+cd /Users/rominaduran/La-teoria-de-los-signos-de-Peirce \ngit clone https://github.com/rominaduran/La-teoria-de-los-signos-de-Peirce.git\n
+git config --global user.name "rominaduran"\ngit config --global user.email romina_duran@icloud.com\nhttps://github.com/rominaduran/La-teoria-de-los-signos-de-Peirce.git\n
+cd /Users/rominaduran/La-teoria-de-los-signos-de-Peirce \ngit clone https://github.com/rominaduran/La-teoria-de-los-signos-de-Peirce.git\n
+git config --global user.name "rominaduran"\ngit config --global user.email romina_duran@icloud.com\nhttps://github.com/rominaduran/La-teoria-de-los-signos-de-Peirce.git\n
+git config --global user.name "rominaduran"\ngit config --global user.email romina_duran@icloud.com\nhttps://github.com/rominaduran/La-teoria-de-los-signos-de-Peirce.git\n
+git push
+git add mafalda.png
+git push mafalda.png
+cd /Users/rominaduran
+git clone https://github.com/rominaduran/ejercicio-1-UCES.git
+git add Mafalda.png
+git commit -m "Agregar archivo Mafalda.png"
+git push origin main
+cd ejercicio-1-UCES
+git remote set-url origin https://github.com/rominaduran/ejercicio-1-UCES.git
+git add Mafalda.png
+git commit -m "Agregar archivo Mafalda.png"
+git add mafalda.png
+git status
+git commit -m "Agregar archivo Mafalda.png"
+git push origin main
+wc -w El-arriero.txt
+cat El-arriero.txt | tr ' ' '\n' | grep "vaquitas" | wc -l
+history -n 50 > 50-comandos.log
+git clone https://github.com/rominaduran/Duran-Romina.git
+cp 50-comandos.log Duran-Romina/
+git add 50-comandos.log
+git commit -m "Añade archivo con los últimos 50 comandos"
+git pull
+git push
+pwd
+git remote -v
+git remote set-url origin <nueva URL>https://github.com/rominaduran/Duran-Romina.git
+git remote set-url origin <https://github.com/rominaduran/Duran-Romina.git>
+git remote set-url origin https://github.com/rominaduran/Duran-Romina.git 
+git add 50-comandos.log
+git commit -m "Añade archivo con los últimos 50 comandos"
+pwd
+git remote -v
+git status
+git add
+git add 50-comandos.log
+git commit -m "Añade archivo con los últimos 50 comandos"
+git commit -m "Añade archivo con los últimos 50 comandos"\n
+git add -A\n
+git clone
+wc -w El-arriero.txt
+cat El-arriero.txt | tr ' ' '\n' | grep "vaquitas" | wc -l
+history -n 50 > 50-comandos.log
+cp 50-comandos.log Duran-Romina/
+git clone https://github.com/usuario/Duran-Romina.git
+wc -w El-arriero.txt
+grep "vaquitas" El-arriero.txt | wc -l 
+history -n 50 > 50-comandos.log 
+git clone https://github.com/rominaduran/Duran-Romina.git
+pwd
+git add 50-comandos.log
+cp 50-comandos.log .
+cp /Users/50-comandos.log /Users/Duran-Romina
+wc -w El-arriero.txt 
+cat El-arriero.txt | tr ' ' '\n' | grep "vaquitas" | wc -l
+tail -n 50 ~/.bash_history > 50-comandos.log
+tail -n 50 ~/.zsh/.zsh_history > 50-comandos.log
+history -n 50 > 50-comandos.log
+wc -w El-arriero.txt
+cat El-arriero.txt | tr ' ' '\n' | grep "vaquitas" | wc -l
+history -n 50 > 50-comandos.log
+git clone https://github.com/rominaduran/Duran-Romina.git
+cp 50-comandos.log Duran-Romina/
+git add 50-comandos.log
+git commit -m "Añade archivo con los últimos 50 comandos"
+git pull
+wc -w El-arriero.txt\n
+cat El-arriero.txt | tr ' ' '\n' | grep "vaquitas" | wc -l\n
